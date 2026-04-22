@@ -50,4 +50,4 @@ public:
         int last = lastOcc(nums , target);
         return {first , last};
     }
-};
+};s
